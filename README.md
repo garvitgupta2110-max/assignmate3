@@ -323,4 +323,5 @@ For support, email support@resumate.app or create an issue in the repository.
 Built with ❤️ for students, by developers
 
 #   a s s i g n m a t e  
+ #   a s s i g n m a t e  
  
